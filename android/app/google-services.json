@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "329726017155",
+    "project_id": "misfit-de931",
+    "storage_bucket": "misfit-de931.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329726017155:android:42ef58b5d2789d0d73e5b6",
+        "android_client_info": {
+          "package_name": "com.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU7iUiVjta3bGvB2fIupkUvN9IMfFZdOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
